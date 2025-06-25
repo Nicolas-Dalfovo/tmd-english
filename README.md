@@ -8,19 +8,7 @@
 ## 📖 Sobre o Projeto
 
 O **TMD English** é uma aplicação web desenvolvida em Laravel que permite aos usuários gerenciar um catálogo completo de uma escola de inglês. Sistema completo com CRUD, relacionamentos, busca e interface moderna seguindo a identidade visual da escola.
-
-## ✨ Funcionalidades
-
-- ✅ **CRUD Completo** para Alunos e Cursos
-- ✅ **Relacionamento Many-to-Many** entre tabelas
-- ✅ **Sistema de Busca** por nome/email
-- ✅ **Filtros** por nível e status
-- ✅ **Interface Responsiva** com Bootstrap 5
-- ✅ **Templates Blade** reutilizáveis
-- ✅ **Dashboard** com estatísticas
-- ✅ **Identidade Visual** da TMD English
-- ✅ **Galeria de Imagens** da sala de aula
-
+ 
 ## 🛠️ Tecnologias
 
 - **Backend**: Laravel 10, PHP 8.1+
