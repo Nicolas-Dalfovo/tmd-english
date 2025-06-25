@@ -34,7 +34,7 @@ Extrair o arquivo ZIP para: C:\xampp\htdocs\tmd-english
 
 ### 3. **Acessar o Site**
 ```
-http://localhost/tmd-english/public
+http://localhost/
 ```
 
 ## ✅ Pronto!
